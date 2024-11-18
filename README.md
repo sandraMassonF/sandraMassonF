@@ -17,6 +17,10 @@ En première année de développement web, je suis à la recherche d'une alterna
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,py)](https://skillicons.dev)
 
+## Mes stats :bar_chart:
+
+[![Les Stats GitHub de Sandra](https://github-readme-stats.vercel.app/api?username=sandraMassonF)](https://github.com/sandraMassonFgithub-readme-stats)
+
 <!--
 **sandraMassonF/sandraMassonF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
